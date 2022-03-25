@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "first_name": "SarthakBatra",
+      "email": "sarthakbatra@gmail.com",
+      "password": "sarthak123",
+      "id": 1
+    },
+    {
+      "first_name": "Vedansh",
+      "email": "vedhansh@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "Satvik@gmail.com",
+      "name": "Satvik",
+      "password": "satvik123",
+      "id": 16
+    },
+    {
+      "email": "saurabh@gmail.com",
+      "name": "saurabh",
+      "password": "saurabh123",
+      "id": 19
+    },
+    {
+      "email": "bharat@gmail.com",
+      "name": "Bharat",
+      "password": "bharat123",
+      "id": 21
+    },
+    {
+      "email": "ironman@gmail.com",
+      "name": "ironman",
+      "password": "iron123456",
+      "id": 23
+    },
+    {
+      "email": "flash@gmail.com",
+      "name": "Berry Alan",
+      "password": "flash123456",
+      "id": 24
+    }
+  ]
+}
